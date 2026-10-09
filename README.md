@@ -1,2 +1,1 @@
-# Qianfu-
-这是一个我的优化软件更新下载地址之一
+I am Qianfu. This is the optimization software I use for my major. It's really easy to use and integrates a lot of tools like Delta optimization, graphics card changes, ICC filters, deleting software cache, and more. This is a really good optimization software.
